@@ -134,6 +134,10 @@ header{
 
 }
 
+#description-container {
+    margin-top: 20px;
+}
+
 
 /* Event create page */
 
@@ -207,6 +211,26 @@ header{
 
 #items-list li{
     display: flex;
+}
+
+/* Dashboard */
+
+.dashboard-tittle-container{
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.dashboard-events-container form{
+    display: inline-block;
+
+}
+
+/* Edit page */
+
+.img-preview{
+    width: 100px;
+    margin-top: 20px;
 }
 
 /* Footer */
