@@ -25,10 +25,10 @@ Composer (gerenciador de dependências do PHP)
 Git (opcional, para clonar o projeto)
 
 2. Clonar o Repositório
-   
-- git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
   
-- cd SEU_REPOSITORIO
+cd SEU_REPOSITORIO
 
 3. Instalar Dependências do Laravel
 
