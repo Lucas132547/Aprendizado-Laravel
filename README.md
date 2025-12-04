@@ -11,7 +11,7 @@ XAMPP (Apache + MySQL + PHP)
 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido utilizando o framework Laravel, com templates Blade, rodando em ambiente local via XAMPP.
-O objetivo do sistema é: descreva rapidamente aqui o propósito do seu projeto.
+O objetivo do sistema é: montar um site simple que te permite criar, visualizar, participar, editar e deletar eventos.
 
 🛠️ Como Rodar o Projeto em um Novo Computador
 1. Requisitos
