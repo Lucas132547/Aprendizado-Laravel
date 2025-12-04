@@ -25,8 +25,10 @@ Composer (gerenciador de dependências do PHP)
 Git (opcional, para clonar o projeto)
 
 2. Clonar o Repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+   
+- git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+  
+- cd SEU_REPOSITORIO
 
 3. Instalar Dependências do Laravel
 
@@ -50,10 +52,15 @@ php artisan key:generate
 Abra o arquivo .env e ajuste as linhas:
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=nome_do_banco
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 
