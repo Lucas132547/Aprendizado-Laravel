@@ -26,9 +26,9 @@ Git (opcional, para clonar o projeto)
 
 2. Clonar o Repositório
 
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/Lucas132547/Aprendizado-Laravel.git
   
-cd SEU_REPOSITORIO
+cd Aprendizado-Laravel
 
 3. Instalar Dependências do Laravel
 
