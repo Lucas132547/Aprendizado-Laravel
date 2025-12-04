@@ -43,6 +43,15 @@ header{
     padding: 10px;
 }
 
+#info-container .already-joined-msg {
+    margin: 15px 0;
+    color: #004085;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    padding: 10px;
+    width: 275px;
+}
+
 /* NavBar */
 
 #navbar {
@@ -61,7 +70,7 @@ header{
 
 }
 #search-container{
-    background-image: url("../img/banner.avif");
+    background-image: url("../img/evento-corporativo.jpg");
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -215,14 +224,48 @@ header{
 
 /* Dashboard */
 
-.dashboard-tittle-container{
+.dashboard-events-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.dashboard-events-container th,
+.dashboard-events-container td {
+    padding: 12px 15px;
+    border: 1px solid #dee2e6;
+    vertical-align: middle;
+}
+
+.dashboard-events-container .btn-sm {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.dashboard-events-container .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+.dashboard-title-container{
     margin-bottom: 30px;
     margin-top: 30px;
 
 }
 
+.dashboard-events-container td:last-child {
+    white-space: nowrap;
+}
+
+.dashboard-events-container {
+    flex: 1 1 24%;
+}
+
 .dashboard-events-container form{
-    display: inline-block;
+    display: inline;
+
 
 }
 
